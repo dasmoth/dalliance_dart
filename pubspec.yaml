@@ -1,0 +1,7 @@
+name: dalliance_dart
+description: A sample command-line application
+dev_dependencies:
+  csslib: any
+
+#dependencies:
+#  unittest: any
